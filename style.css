@@ -1,0 +1,39 @@
+.title, h2 {
+    background-color: aquamarine;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+button{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: left;
+}
+
+.ingredients{
+    color: blue;
+}
+
+.steps {
+    color: brown;
+}
+
+p {
+    color: blueviolet;
+    text-align: justify;
+}
+
+#home {
+    background-color: orange;
+}
+
+img{
+    width: auto;
+    height: auto;
+}
